@@ -10,3 +10,4 @@ sudo ln -s ~/mygentoo/package.use /etc/portage/package.use
 
 # binhost
 sudo ln -sf ~/mygentoo/gentoobinhost.conf /etc/portage/binrepos.conf/gentoobinhost.conf
+sudo ln -sf ~/mygentoo/gentoo.conf /etc/portage/repos.conf/gentoo.conf
