@@ -4,7 +4,7 @@ media-libs/libvpx postproc
 # headset
 media-sound/pulseaudio ofono-headset
 # pipewire
-media-video/pipewire system-service pipewire-alsa ffmpeg
+media-video/pipewire system-service pipewire-alsa
 # pulseaudio
 #media-sound/pulseaudio-daemon ofono-headset gstreamer atpx
 #media-sound/pulseaudio daemon
