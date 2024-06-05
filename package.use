@@ -6,6 +6,8 @@ media-libs/libvpx postproc
 #media-video/pipewire system-service pipewire-alsa
 # pulseaudio
 media-sound/pulseaudio daemon
+media-sound/pulseaudio ofono-headset
+media-sound/pulseaudio-daemon ofono-headset gstreamer atpx
 media-video/pipewire -sound-server
 
 app-i18n/fcitx-gtk:5 gtk2
