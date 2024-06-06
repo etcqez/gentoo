@@ -1,0 +1,7 @@
+# headset
+# pipewire
+#media-video/pipewire system-service pipewire-alsa
+# pulseaudio
+#media-video/pipewire -sound-server -systemd -bluetooth -dbus -readline -ssl
+media-video/pipewire -*
+media-sound/pulseaudio daemon
