@@ -1,1 +1,3 @@
+# required by vivaldi (argument)
+=www-client/vivaldi-6.7.3329.31 Vivaldi
 sys-kernel/linux-firmware linux-fw-redistributable no-source-code
