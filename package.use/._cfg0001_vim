@@ -1,0 +1,5 @@
+app-editors/vim CPU_FLAGS_X86: -avx
+# required by www-client/vivaldi-6.7.3329.31::gentoo[proprietary-codecs,-ffmpeg-chromium]
+# required by @selected
+# required by @world (argument)
+>=media-video/ffmpeg-6.1.1-r5 chromium

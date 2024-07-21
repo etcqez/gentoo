@@ -5,3 +5,4 @@ app-i18n/fcitx-gtk:5 gtk2
 sys-process/audit python
 sys-fs/lvm2 lvm
 #app-crypt/qca qt6
+www-client/vivaldi proprietary-codecs ffmpeg-chromium
